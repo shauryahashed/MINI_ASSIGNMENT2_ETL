@@ -1,0 +1,8 @@
+csvsource=C:\Users\shausingh\Downloads\MINI_ASSIGNMENT 2\Sales data.csv
+dbhost=localhost
+db_login=postgres
+db_password=Ss@@9336
+db_schema=public
+db_name=postgres
+db_tablename=miniass
+db_port=5432

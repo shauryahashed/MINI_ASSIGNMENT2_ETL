@@ -1,0 +1,30 @@
+Region,Country,Item_Type,Sales_Channel,Order_Priority,Order_Date,Order_ID,Ship_Date,Units_Sold,Unit_Price,Unit_Cost
+Europe,Slovakia,Beverages,Offline,L,26/10/16,174590194,4/12/2016,3973,47.45,31.79
+Europe,France,Cosmetics,Online,M,7/12/2015,324669444,18/01/16,5758,437.2,263.33
+Europe,United Kingdom,Cosmetics,Online,L,1/5/2015,135178029,16/05/15,1038,437.2,263.33
+Europe,Estonia,Household,Offline,H,1/9/2011,835696351,21/10/11,9976,668.27,502.54
+Europe,Czech Republic,Cosmetics,Online,H,22/03/14,726137769,26/04/14,9157,437.2,263.33
+Europe,Belgium,Personal Care,Online,H,1/11/2011,222504317,20/11/11,2827,81.73,56.67
+Europe,Finland,Household,Offline,H,15/01/16,757257401,31/01/16,8148,668.27,502.54
+Europe,Serbia,Clothes,Offline,L,6/7/2016,925136649,13/07/16,7348,109.28,35.84
+Europe,Montenegro,Clothes,Offline,M,4/9/2016,902511680,8/9/2016,2117,109.28,35.84
+Europe,Greece,Cereal,Online,H,22/08/15,887124383,8/10/2015,8674,205.7,117.11
+Europe,Monaco,Beverages,Offline,M,29/05/16,467399013,14/06/16,2609,47.45,31.79
+Europe,Albania,Personal Care,Offline,M,6/2/2016,104191863,11/2/2016,1543,81.73,56.67
+Europe,Italy,Cereal,Online,M,15/11/11,294530856,28/12/11,7080,205.7,117.11
+Europe,Switzerland,Office Supplies,Offline,C,29/07/14,830410039,27/08/14,5639,651.21,524.96
+Europe,Netherlands,Fruits,Online,L,19/11/16,845056617,30/11/16,9887,9.33,6.92
+Europe,Sweden,Beverages,Online,H,13/09/12,265081918,12/10/2012,2485,47.45,31.79
+Europe,Italy,Cereal,Online,C,30/11/15,887409770,5/12/2015,3126,205.7,117.11
+Europe,Iceland,Baby Food,Offline,M,2/10/2010,678230941,3/11/2010,2462,255.28,159.42
+Europe,Finland,Vegetables,Offline,C,9/10/2012,642134416,27/11/12,698,154.06,90.93
+Europe,Romania,Beverages,Online,M,19/02/12,756839835,13/03/12,4581,47.45,31.79
+Europe,Albania,Baby Food,Offline,H,19/07/12,752525556,13/08/12,7890,255.28,159.42
+Europe,Italy,Office Supplies,Online,H,29/03/11,797385394,11/4/2011,2913,651.21,524.96
+Europe,Moldova ,Fruits,Online,C,27/01/13,180908620,3/3/2013,3736,9.33,6.92
+Europe,Romania,Cereal,Online,M,16/04/15,633134210,18/04/15,7337,205.7,117.11
+Europe,Serbia,Office Supplies,Offline,C,26/02/14,527456033,2/3/2014,4816,651.21,524.96
+Europe,Albania,Meat,Offline,M,26/04/13,567728221,12/5/2013,2252,421.89,364.69
+Europe,Armenia,Clothes,Offline,C,23/06/13,942383038,29/06/13,938,109.28,35.84
+Europe,Estonia,Vegetables,Online,L,20/01/15,336956536,4/2/2015,1782,154.06,90.93
+Europe,Armenia,Snacks,Offline,M,23/06/15,941156947,6/7/2015,8110,152.58,97.44
